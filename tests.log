@@ -1,0 +1,66 @@
+2023-04-28 21:32:06 - INFO - run_appium_server: Start Appium Server
+2023-04-28 21:32:25 - INFO - driver: Start connection
+2023-04-28 21:32:25 - INFO - test_user_login: Start test_user_login
+2023-04-28 21:32:25 - INFO - test_user_login: Execute login function
+2023-04-28 21:32:25 - INFO - execute_login: Click on button authorize
+2023-04-28 21:32:27 - INFO - execute_login: Fill email field
+2023-04-28 21:32:28 - INFO - execute_login: Fill password field
+2023-04-28 21:32:29 - INFO - test_user_login: Click login button
+2023-04-28 21:32:30 - INFO - test_user_login: Check if the user is log in
+2023-04-28 21:32:46 - INFO - test_user_login: End test_user_login
+
+2023-04-28 21:32:48 - INFO - test_negative_login: Start test_negative_login with email: 'qa.ajax.app.automation@gmail.com' and password: ''
+2023-04-28 21:32:48 - INFO - test_negative_login: Execute login function
+2023-04-28 21:32:48 - INFO - execute_login: Click on button authorize
+2023-04-28 21:32:51 - INFO - execute_login: Fill email field
+2023-04-28 21:32:51 - INFO - execute_login: Fill password field
+2023-04-28 21:32:52 - INFO - test_negative_login: Check if the button is clickable
+2023-04-28 21:32:53 - INFO - test_negative_login: End test_negative_login
+
+2023-04-28 21:32:55 - INFO - test_negative_login: Start test_negative_login with email: '' and password: 'qa_automation_password'
+2023-04-28 21:32:55 - INFO - test_negative_login: Execute login function
+2023-04-28 21:32:55 - INFO - execute_login: Click on button authorize
+2023-04-28 21:32:58 - INFO - execute_login: Fill email field
+2023-04-28 21:32:58 - INFO - execute_login: Fill password field
+2023-04-28 21:32:59 - INFO - test_negative_login: Check if the button is clickable
+2023-04-28 21:32:59 - INFO - test_negative_login: End test_negative_login
+
+2023-04-28 21:33:02 - INFO - test_negative_login: Start test_negative_login with email: 'non_valid_format_email' and password: 'qa_automation_password'
+2023-04-28 21:33:02 - INFO - test_negative_login: Execute login function
+2023-04-28 21:33:02 - INFO - execute_login: Click on button authorize
+2023-04-28 21:33:04 - INFO - execute_login: Fill email field
+2023-04-28 21:33:05 - INFO - execute_login: Fill password field
+2023-04-28 21:33:06 - INFO - test_negative_login: Check if the button is clickable
+2023-04-28 21:33:09 - INFO - test_negative_login: End test_negative_login
+
+2023-04-28 21:33:11 - INFO - test_negative_login: Start test_negative_login with email: 'qa.ajax.app.automation@gmail.com' and password: 'non_valid_password'
+2023-04-28 21:33:11 - INFO - test_negative_login: Execute login function
+2023-04-28 21:33:11 - INFO - execute_login: Click on button authorize
+2023-04-28 21:33:14 - INFO - execute_login: Fill email field
+2023-04-28 21:33:14 - INFO - execute_login: Fill password field
+2023-04-28 21:33:15 - INFO - test_negative_login: Check if the button is clickable
+2023-04-28 21:33:30 - INFO - test_negative_login: End test_negative_login
+
+2023-04-28 21:33:33 - INFO - test_negative_login: Start test_negative_login with email: 'non_valid_email@gmail.com' and password: 'qa_automation_password'
+2023-04-28 21:33:33 - INFO - test_negative_login: Execute login function
+2023-04-28 21:33:33 - INFO - execute_login: Click on button authorize
+2023-04-28 21:33:35 - INFO - execute_login: Fill email field
+2023-04-28 21:33:36 - INFO - execute_login: Fill password field
+2023-04-28 21:33:37 - INFO - test_negative_login: Check if the button is clickable
+2023-04-28 21:33:41 - INFO - test_negative_login: End test_negative_login
+
+2023-04-28 21:33:43 - INFO - test_sidebar_elements: Start test_sidebar_elements
+2023-04-28 21:33:43 - INFO - test_sidebar_elements: Execute login function
+2023-04-28 21:33:43 - INFO - execute_login: Click on button authorize
+2023-04-28 21:33:46 - INFO - execute_login: Fill email field
+2023-04-28 21:33:47 - INFO - execute_login: Fill password field
+2023-04-28 21:33:48 - INFO - test_sidebar_elements: Click login button
+2023-04-28 21:33:50 - INFO - test_sidebar_elements: Click on menu button
+2023-04-28 21:34:05 - INFO - test_sidebar_elements: Check if addHub button is displayed
+2023-04-28 21:34:06 - INFO - test_sidebar_elements: Check if settings button is displayed
+2023-04-28 21:34:06 - INFO - test_sidebar_elements: Check if help button is displayed
+2023-04-28 21:34:06 - INFO - test_sidebar_elements: Check if logs button is displayed
+2023-04-28 21:34:06 - INFO - test_sidebar_elements: Check if camera button is displayed
+2023-04-28 21:34:07 - INFO - test_sidebar_elements: End test_sidebar_elements
+
+2023-04-28 21:34:09 - INFO - driver: Close connection
